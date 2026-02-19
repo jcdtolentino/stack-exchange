@@ -1,0 +1,54 @@
+com.example.stackexchange.app-activity-ktx-1.10.1-0 /Users/john/.gradle/caches/8.14.2/transforms/0b3390b5fe7e16b71dd14953077fcebb/transformed/activity-ktx-1.10.1/res
+com.example.stackexchange.app-ui-graphics-release-1 /Users/john/.gradle/caches/8.14.2/transforms/0def66ec23b95601ad2dab1cd9b2e0ad/transformed/ui-graphics-release/res
+com.example.stackexchange.app-lifecycle-viewmodel-compose-release-2 /Users/john/.gradle/caches/8.14.2/transforms/0e7288a92588db5928803503216c3315/transformed/lifecycle-viewmodel-compose-release/res
+com.example.stackexchange.app-core-ktx-1.17.0-3 /Users/john/.gradle/caches/8.14.2/transforms/1348ebb77934e40992bda30eb450528c/transformed/core-ktx-1.17.0/res
+com.example.stackexchange.app-navigation-common-2.8.0-4 /Users/john/.gradle/caches/8.14.2/transforms/18020a48ebf657e9db1c9debce941dde/transformed/navigation-common-2.8.0/res
+com.example.stackexchange.app-appcompat-resources-1.6.1-5 /Users/john/.gradle/caches/8.14.2/transforms/1900d4200c13c91f20d510c6b3da069d/transformed/appcompat-resources-1.6.1/res
+com.example.stackexchange.app-lifecycle-runtime-compose-release-6 /Users/john/.gradle/caches/8.14.2/transforms/1e484a797c269a6a8a28bb151d7d3d50/transformed/lifecycle-runtime-compose-release/res
+com.example.stackexchange.app-lifecycle-livedata-core-ktx-2.9.3-7 /Users/john/.gradle/caches/8.14.2/transforms/360c2f62610e42210141c799bfead591/transformed/lifecycle-livedata-core-ktx-2.9.3/res
+com.example.stackexchange.app-lifecycle-livedata-2.9.3-8 /Users/john/.gradle/caches/8.14.2/transforms/375f928fc5c45c85c7ebd0a582a28044/transformed/lifecycle-livedata-2.9.3/res
+com.example.stackexchange.app-annotation-experimental-1.4.1-9 /Users/john/.gradle/caches/8.14.2/transforms/3b8a2cadf00199acad9838f27c1ded68/transformed/annotation-experimental-1.4.1/res
+com.example.stackexchange.app-foundation-release-10 /Users/john/.gradle/caches/8.14.2/transforms/4962e79f4e52102407b721588292b301/transformed/foundation-release/res
+com.example.stackexchange.app-hilt-navigation-1.2.0-11 /Users/john/.gradle/caches/8.14.2/transforms/4a1aa9745ec726c47ed3db2b4cd78a96/transformed/hilt-navigation-1.2.0/res
+com.example.stackexchange.app-navigation-common-ktx-2.8.0-12 /Users/john/.gradle/caches/8.14.2/transforms/4bfb69240969f5b850f949bd74d89c8c/transformed/navigation-common-ktx-2.8.0/res
+com.example.stackexchange.app-profileinstaller-1.4.0-13 /Users/john/.gradle/caches/8.14.2/transforms/5a16740f8ed36a8f9011a90247b21834/transformed/profileinstaller-1.4.0/res
+com.example.stackexchange.app-navigation-runtime-2.8.0-14 /Users/john/.gradle/caches/8.14.2/transforms/5c4a965e6903be0235996798dc6c24fc/transformed/navigation-runtime-2.8.0/res
+com.example.stackexchange.app-navigation-compose-2.8.0-15 /Users/john/.gradle/caches/8.14.2/transforms/656af6f1e58acf1bef7d6bedd805e84a/transformed/navigation-compose-2.8.0/res
+com.example.stackexchange.app-material3-release-16 /Users/john/.gradle/caches/8.14.2/transforms/6deac256365106e9a49720df0b223631/transformed/material3-release/res
+com.example.stackexchange.app-hilt-navigation-compose-1.2.0-17 /Users/john/.gradle/caches/8.14.2/transforms/6eeaa7d17aa9ad00b6043a32e2b575a2/transformed/hilt-navigation-compose-1.2.0/res
+com.example.stackexchange.app-animation-core-release-18 /Users/john/.gradle/caches/8.14.2/transforms/7373c02ac116c2d2e4a829cbb1843d3c/transformed/animation-core-release/res
+com.example.stackexchange.app-navigation-runtime-ktx-2.8.0-19 /Users/john/.gradle/caches/8.14.2/transforms/76948615351fb569974ee95719d23d2e/transformed/navigation-runtime-ktx-2.8.0/res
+com.example.stackexchange.app-foundation-layout-release-20 /Users/john/.gradle/caches/8.14.2/transforms/7f44a8de8edd37bdd8a4e6966279720e/transformed/foundation-layout-release/res
+com.example.stackexchange.app-tracing-1.2.0-21 /Users/john/.gradle/caches/8.14.2/transforms/7f51a7a443b9ec7c7c1ae9a8d5c1f47e/transformed/tracing-1.2.0/res
+com.example.stackexchange.app-coil-base-2.6.0-22 /Users/john/.gradle/caches/8.14.2/transforms/82e088ab6a74a55eed9ddef7ce7beedc/transformed/coil-base-2.6.0/res
+com.example.stackexchange.app-material-ripple-release-23 /Users/john/.gradle/caches/8.14.2/transforms/83dee5fd8cf018534c0b35b3c25b9ad5/transformed/material-ripple-release/res
+com.example.stackexchange.app-activity-compose-1.10.1-24 /Users/john/.gradle/caches/8.14.2/transforms/856cd9ad7b627904d1c5c4e1e475a1d5/transformed/activity-compose-1.10.1/res
+com.example.stackexchange.app-lifecycle-process-2.9.3-25 /Users/john/.gradle/caches/8.14.2/transforms/8a4858e77e0fbb92e66d9e53bb722f8b/transformed/lifecycle-process-2.9.3/res
+com.example.stackexchange.app-material-icons-core-release-26 /Users/john/.gradle/caches/8.14.2/transforms/9b82c8bc2c598d569bd000183a8928a5/transformed/material-icons-core-release/res
+com.example.stackexchange.app-lifecycle-runtime-release-27 /Users/john/.gradle/caches/8.14.2/transforms/a0169c27a27e78b5a7f5151b6ae695fd/transformed/lifecycle-runtime-release/res
+com.example.stackexchange.app-startup-runtime-1.1.1-28 /Users/john/.gradle/caches/8.14.2/transforms/ae5ea20f20bbd823869d30ed885bca0c/transformed/startup-runtime-1.1.1/res
+com.example.stackexchange.app-core-viewtree-1.0.0-29 /Users/john/.gradle/caches/8.14.2/transforms/b327f6e48da0f6e5ae98b86a40aaf92b/transformed/core-viewtree-1.0.0/res
+com.example.stackexchange.app-savedstate-ktx-1.3.1-30 /Users/john/.gradle/caches/8.14.2/transforms/b85f23d22a947705d2c7754f86b9e0ab/transformed/savedstate-ktx-1.3.1/res
+com.example.stackexchange.app-ui-release-31 /Users/john/.gradle/caches/8.14.2/transforms/bac76745f9f6299785cc141b528e8821/transformed/ui-release/res
+com.example.stackexchange.app-animation-release-32 /Users/john/.gradle/caches/8.14.2/transforms/bce6ca1f252485d21dbd44d8afcf05c4/transformed/animation-release/res
+com.example.stackexchange.app-lifecycle-viewmodel-savedstate-release-33 /Users/john/.gradle/caches/8.14.2/transforms/c14ff67364c9697aa18c81694cf15744/transformed/lifecycle-viewmodel-savedstate-release/res
+com.example.stackexchange.app-savedstate-release-34 /Users/john/.gradle/caches/8.14.2/transforms/c878c63fe34d5076174a2ce54e456467/transformed/savedstate-release/res
+com.example.stackexchange.app-core-1.17.0-35 /Users/john/.gradle/caches/8.14.2/transforms/c9ee4f87b5430b70ba7ed47d6b48e5ff/transformed/core-1.17.0/res
+com.example.stackexchange.app-activity-1.10.1-36 /Users/john/.gradle/caches/8.14.2/transforms/cf0de2483eb073e0f494e38f07c028a0/transformed/activity-1.10.1/res
+com.example.stackexchange.app-core-runtime-2.2.0-37 /Users/john/.gradle/caches/8.14.2/transforms/dae735fcd903bca5f1ce9ea88b6c4d62/transformed/core-runtime-2.2.0/res
+com.example.stackexchange.app-graphics-path-1.0.1-38 /Users/john/.gradle/caches/8.14.2/transforms/e1f3788af0e0daed267bf8d12c05c772/transformed/graphics-path-1.0.1/res
+com.example.stackexchange.app-savedstate-compose-release-39 /Users/john/.gradle/caches/8.14.2/transforms/e6d80e49e8ee0985ced269d54ad2aa43/transformed/savedstate-compose-release/res
+com.example.stackexchange.app-lifecycle-livedata-core-2.9.3-40 /Users/john/.gradle/caches/8.14.2/transforms/ecd07ff07f0a7ea2e2b7e4160a011220/transformed/lifecycle-livedata-core-2.9.3/res
+com.example.stackexchange.app-customview-poolingcontainer-1.0.0-41 /Users/john/.gradle/caches/8.14.2/transforms/f7245af413ff8ad20d406cb237bdef50/transformed/customview-poolingcontainer-1.0.0/res
+com.example.stackexchange.app-lifecycle-viewmodel-release-42 /Users/john/.gradle/caches/8.14.2/transforms/f7aebfcfead4aea565d7a0428c9581f3/transformed/lifecycle-viewmodel-release/res
+com.example.stackexchange.app-emoji2-1.4.0-43 /Users/john/.gradle/caches/8.14.2/transforms/fce37eaef2e25c5430d85a86e79a791d/transformed/emoji2-1.4.0/res
+com.example.stackexchange.app-lifecycle-viewmodel-ktx-2.9.3-44 /Users/john/.gradle/caches/8.14.2/transforms/fd35f99d8d3fa460505b1e7224acb1f5/transformed/lifecycle-viewmodel-ktx-2.9.3/res
+com.example.stackexchange.app-fragment-1.5.1-45 /Users/john/.gradle/caches/8.14.2/transforms/ff16f4d532a757ac3fdc22c96c03761a/transformed/fragment-1.5.1/res
+com.example.stackexchange.app-pngs-46 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/generated/res/pngs/release
+com.example.stackexchange.app-resValues-47 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/generated/res/resValues/release
+com.example.stackexchange.app-packageReleaseResources-48 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.stackexchange.app-packageReleaseResources-49 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.stackexchange.app-merged-not-compiled-resources-50 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/intermediates/merged-not-compiled-resources/release
+com.example.stackexchange.app-release-51 /Users/john/Desktop/Projects/personal projects/stackExchange/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.stackexchange.app-main-52 /Users/john/Desktop/Projects/personal projects/stackExchange/app/src/main/res
+com.example.stackexchange.app-release-53 /Users/john/Desktop/Projects/personal projects/stackExchange/app/src/release/res
